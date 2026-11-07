@@ -106,17 +106,10 @@ https://t.me/SUKOT1344
 
 ## 🔗 دسترسی سریع
 
-<a href="https://github.com/mrzban679-afk/sukot-panel">
-<img src="https://img.shields.io/badge/GITHUB-مخزن_اصلی-181717?style=for-the-badge&logo=github" />
-</a>
 
-<a href="https://dash.cloudflare.com/">
-<img src="https://img.shields.io/badge/CLOUDFLARE-داشبورد-F38020?style=for-the-badge&logo=cloudflare" />
-</a>
 
-<a href="https://chat.z.ai/">
-<img src="https://img.shields.io/badge/Z.AI-هوش_مصنوعی-6D28D9?style=for-the-badge" />
-</a>
+
+
 
 <a href="https://t.me/SUKOT1344">
 <img src="https://img.shields.io/badge/TELEGRAM-عضویت_در_کانال-229ED9?style=for-the-badge&logo=telegram" />
